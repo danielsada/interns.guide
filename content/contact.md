@@ -7,5 +7,5 @@ type: docs
 
 Hey, if you need to contact me, please send an email to:
 
-daniel [at] interns [dot]guide
+hello [at] danielsada [dot] tech
 
