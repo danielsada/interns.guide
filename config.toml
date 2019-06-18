@@ -5,7 +5,7 @@
 
 baseURL = 'https://interns.guide/'
 title = 'Interns.guide'
-theme = 'hugo-book'
+theme = 'book'
 disableKinds = ['taxonomy', 'taxonomyTerm']
 # themesDir = '../..'
 
