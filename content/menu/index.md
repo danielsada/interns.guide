@@ -16,6 +16,9 @@ headless: true
 - [Amazon]({{< relref "/docs/companies/amazon/_index.md" >}})
 - [Facebook]({{< relref "/docs/companies/facebook/_index.md" >}})
 
+# International Interns
+- [Mexico]({{< relref "/docs/international/mexico/_index.md" >}})
+
 # Communities worth looking into:
 - [Microsoft Interviewing Discord]({{< relref "https://reddit.com" >}})
 - [Interns.community]({{< relref "https://www.intern.community/" >}})
